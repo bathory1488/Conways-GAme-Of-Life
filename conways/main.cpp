@@ -5,8 +5,6 @@
 #include <Windows.h>
 using namespace sf;
 
-int iWidth = GetSystemMetrics(SM_CXSCREEN);  // разрешение экрана по горизонтали
-int iHeight = GetSystemMetrics(SM_CYSCREEN); // разрешение экрана по вертикали
 
 #define WINDOW_WIDTH 1000
 #define WINDOW_HEIGHT 900
