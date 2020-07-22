@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\user\desktop\задания\conways\conways\main.cpp(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\conways\conways\main.cpp(120): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\задания\conways\conways\main.cpp(127): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\desktop\задания\conways\conways\main.cpp(137): warning C4305: аргумент: усечение из "int" в "sf::Uint8"
+c:\users\user\desktop\задания\conways\conways\main.cpp(137): warning C4309: аргумент: усечение константного значения
+  Создание кода
+  2 of 118 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  conways.vcxproj -> C:\Users\User\Desktop\задания\conways\Release\conways.exe
