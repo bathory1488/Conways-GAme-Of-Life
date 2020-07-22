@@ -130,7 +130,7 @@ int main()
 	window.setFramerateLimit(22);
 
 	Font font;
-	font.loadFromFile("C:\\AdobeClean-Bold.ttf");
+	font.loadFromFile("C:\\AdobeClean-Bold.ttf"); 
 	Text text("", font, 35);
 
 	RectangleShape rectangle;
